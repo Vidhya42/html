@@ -1,0 +1,30 @@
+.container{
+    display:grid;
+    background-color: beige;
+}
+
+h1{
+    background-color: black;
+    color: beige;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    border: 2px black solid;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+button{
+    color: beige;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
